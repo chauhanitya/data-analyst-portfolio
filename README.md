@@ -10,4 +10,4 @@ Hi! I'm Nitya, a content creator and digital marketer transitioning into data an
 
 Stay tuned as I upload dashboards, datasets, and visualizations.
 
-🚀 First project in progress: Ad Campaign Performance Dashboard
+🚀 First project in progress: Event Coordination Dashboard & Digimarcon App Tracking Insights Tools Used: Tableau, Python, Excel
